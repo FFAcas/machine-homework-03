@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cha Chas Burger</string>
+    <string name="brg">Burger Type</string>
+    <string name="chic">Chicken</string>
+    <string name="beef">Beef</string>
+    <string name="adds">Add-Ons</string>
+    <string name="pine">Pineapple</string>
+    <string name="let">Lettuce</string>
+    <string name="bacon">Bacon</string>
+    <string name="picks">Pickels</string>
+    <string name="chese">Cheese</string>
+    <string name="must">Mustard</string>
+</resources>
